@@ -55,3 +55,13 @@ main {
 .date {
   height: 10%;
 }
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+a {
+  float: ;
+}
